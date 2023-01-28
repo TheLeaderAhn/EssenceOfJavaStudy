@@ -12,9 +12,8 @@ public class VarEx2 {
         x       = y;
         y       = temp;
 
-        System.out.println("변환 후 : x" + x);
-
-
+        System.out.println("변환 후 X : " + x + ",  변환 후 Y : " + y);
+        System.out.println("temp : " + temp);
 
 
 
